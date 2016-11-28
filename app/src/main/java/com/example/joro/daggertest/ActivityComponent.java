@@ -19,4 +19,5 @@ public interface ActivityComponent {
 
 
     void inject(MainActivity mainActivity);
+    void inject(Main2Activity main2Activity);
 }
